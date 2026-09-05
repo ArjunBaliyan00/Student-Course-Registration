@@ -1,0 +1,6 @@
+Student Registration Details:
+
+101 - Arjun - B.Tech CSE
+102 - Rahul - B.Tech CSE
+103 - Aman - B.Tech CSE
+104 - Rohit - B.Tech CSE
