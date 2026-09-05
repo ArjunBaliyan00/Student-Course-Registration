@@ -1,0 +1,5 @@
+Available Courses:
+Python
+Data Structures
+Database Management System
+Computer Networks
