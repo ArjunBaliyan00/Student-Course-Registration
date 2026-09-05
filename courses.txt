@@ -1,5 +1,7 @@
 Available Courses:
 Python Advanced
+Python for Beginners
 Data Structures and Algorithms
+Advanced Data Structures
 Database Management System
 Computer Networks
