@@ -1,6 +1,5 @@
 Available Courses:
-Python
-Data Structures and Algorithms
+Python for Beginners
+Advanced Data Structures
 Database Management System
 Computer Networks
-Web Development
